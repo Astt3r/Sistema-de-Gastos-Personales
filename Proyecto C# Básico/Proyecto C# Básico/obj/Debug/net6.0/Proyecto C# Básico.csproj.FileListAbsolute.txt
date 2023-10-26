@@ -1,0 +1,15 @@
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\bin\Debug\net6.0\Proyecto C# Básico.exe
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\bin\Debug\net6.0\Proyecto C# Básico.deps.json
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\bin\Debug\net6.0\Proyecto C# Básico.runtimeconfig.json
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\bin\Debug\net6.0\Proyecto C# Básico.dll
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\bin\Debug\net6.0\Proyecto C# Básico.pdb
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.csproj.AssemblyReference.cache
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.GeneratedMSBuildEditorConfig.editorconfig
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.AssemblyInfoInputs.cache
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.AssemblyInfo.cs
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.csproj.CoreCompileInputs.cache
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.dll
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\refint\Proyecto C# Básico.dll
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.pdb
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\Proyecto C# Básico.genruntimeconfig.cache
+F:\Curso\Proyecto C# Básico\Proyecto C# Básico\obj\Debug\net6.0\ref\Proyecto C# Básico.dll
